@@ -1,0 +1,2 @@
+John|Smith|555-1111|Business
+Emily|Davis|555-2222|Friend
